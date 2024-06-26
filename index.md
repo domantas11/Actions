@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "New Action"
+  name: "New Action!!!!!!!!!!!!!!!!!"
   text: "Training Page for Cloud Computing Course"
   tagline: My great project tagline
   actions:
